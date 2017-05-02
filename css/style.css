@@ -12,3 +12,7 @@ p.intro {
 .image-surrounder {
   text-align: center;
 }
+.lorem {
+  font-style: italic;
+  color: #009999;
+}
