@@ -1,0 +1,14 @@
+h2.intro {
+  color: red;
+  width: 75%;
+  font-weight: bold;
+}
+p.intro {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+  /*color: red;*/
+}
+.image-surrounder {
+  text-align: center;
+}
